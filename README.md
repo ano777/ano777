@@ -4,7 +4,7 @@
 
 ### Backend Developer · Go & PostgreSQL
 
-Building scalable payment infrastructure at **CrazePay** — clean architecture, reliable APIs, and databases that keep up.
+Building scalable payment infrastructures — clean architecture, reliable APIs, and databases that keep up.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anoranya-Dutta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoranyadutta@gmail.com)

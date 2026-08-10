@@ -16,7 +16,6 @@ Building scalable payment infrastructure at **CrazePay** — clean architecture,
 
 ## 🚀 About Me
 
-- 💼 Backend Developer at **CrazePay** (Kolkata), engineering scalable RESTful APIs in **Go**
 - 🏗️ Big believer in **clean / hexagonal architecture** — core business logic shouldn't care which framework or database it's plugged into
 - 💳 Resolved payment gateway desynchronization by designing secure **webhooks** with the adapter pattern, keeping transactions reliable in real time
 - 🐘 Optimized **PostgreSQL** schemas and complex SQL queries for a **35% boost** in data retrieval speed

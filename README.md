@@ -85,20 +85,7 @@ Building scalable payment infrastructure at **CrazePay** — clean architecture,
 - ✅ **HackerRank Certified** — React (Basic) & SQL (Intermediate)
 - 📮 **Postman API Testing Path (v12)** — Certified in API Fundamentals and Testing
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ano777&show_icons=true&theme=tokyonight&hide_border=true" alt="Anoranya's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ano777&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=ano777&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
 
 💬 Open to backend engineering opportunities and collaborations — reach me at **anoranyadutta@gmail.com**
 

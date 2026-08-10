@@ -76,7 +76,6 @@ Building scalable payment infrastructure at **CrazePay** — clean architecture,
 - Document engine containerized with **Docker** to isolate microservices and optimize resource usage
 - **Apache reverse proxy with SSL termination** securing HTTPS traffic for remote access
 
-> 🔗 Replace the project links above with the actual repository URLs.
 
 ## 🏆 Achievements & Certifications
 
@@ -86,6 +85,5 @@ Building scalable payment infrastructure at **CrazePay** — clean architecture,
 
 
 
-💬 Open to backend engineering opportunities and collaborations — reach me at **anoranyadutta@gmail.com**
 
 </div>

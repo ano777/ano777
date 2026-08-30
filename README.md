@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Anoranya Dutta 
-  
+
 ### Backend Developer · Go & PostgreSQL
 
 Building scalable payment infrastructures — clean architecture, reliable APIs, and databases that keep up.
@@ -52,7 +52,7 @@ Building scalable payment infrastructures — clean architecture, reliable APIs,
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 **Tools**
-
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)

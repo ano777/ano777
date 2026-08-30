@@ -15,7 +15,7 @@ Building on the Salesforce platform — governor-limit-safe Apex, clean LWC, and
 
 ## 🚀 About Me
 
-- ⚡ **Salesforce Developer at InspiroWorks** — building on Sales Cloud, Service Cloud, Marketing Cloud and Data Cloud
+- ⚡ **Salesforce Developer** — building on Sales Cloud, Service Cloud, Marketing Cloud and Data Cloud
 - 🧩 Write **Apex** triggers, service classes and Batch/Queueable jobs on bulkified, governor-limit-safe patterns, paired with custom **Lightning Web Components**
 - 📬 Configure **Marketing Cloud** end-to-end — multi-step Journey Builder journeys, Data Extensions with SQL segmentation in Automation Studio, CRM sync via Marketing Cloud Connect, and compliant **WhatsApp (Meta WABA)** + **SMS (DLT)** messaging
 - 🌊 Enable **Data Cloud** — data streams, DLO → DMO mapping, identity resolution and segment activation back into Marketing Cloud

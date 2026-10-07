@@ -2,7 +2,7 @@
 Hi, I'm Anoranya Dutta
 
 ### Salesforce Developer · Apex · LWC · Marketing Cloud · Data Cloud
-
+ 
 Building on the Salesforce platform — governor-limit-safe Apex, clean LWC, and multi-channel journeys that actually reach people.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoranyadutta/)

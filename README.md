@@ -9,9 +9,9 @@ Building on the Salesforce platform — governor-limit-safe Apex, clean LWC, and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoranyadutta@gmail.com)
  
 </div> 
- 
----
 
+---
+ 
 ## 🚀 About Me
 
 - ⚡ **Salesforce Developer** — building on Sales Cloud, Service Cloud, Marketing Cloud and Data Cloud
